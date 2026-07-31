@@ -200,7 +200,7 @@ weld-defect-cnn/
 ## Setup
 
 ```bash
-git clone https://github.com/Ankit-Mangla-1018/weld-defect-cnn.git
+git clone https://github.com/Ankit-Mangla-1018/Defect-Detection-in-Welding-using-CNN.git
 cd weld-defect-cnn
 
 python -m venv venv
