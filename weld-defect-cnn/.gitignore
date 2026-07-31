@@ -1,0 +1,30 @@
+# Data — never commit images
+data/raw/*
+!data/raw/SOURCE.md
+data/processed/
+
+# Model weights — retrain locally
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Run outputs
+runs/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+kaggle.json
+.kaggle/
