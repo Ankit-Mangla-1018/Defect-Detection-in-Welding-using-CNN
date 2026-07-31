@@ -9,7 +9,7 @@ Custom CNN and ResNet18 fine-tuning · Grad-CAM interpretability · Interactive 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-demo-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CI](https://github.com/Ankit-Mangla-1018/weld-defect-cnn/actions/workflows/ci.yml/badge.svg)](https://github.com/Ankit-Mangla-1018/weld-defect-cnn/actions)
+[![CI](https://github.com/Ankit-Mangla-1018/Defect-Detection-in-Welding-using-CNN/actions/workflows/ci.yml/badge.svg)](https://github.com/Ankit-Mangla-1018/Defect-Detection-in-Welding-using-CNN/actions)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20CC%20BY--SA%204.0-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/sukmaadhiwijaya/welding-defect-object-detection)
 
 </div>
